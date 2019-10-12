@@ -1,3 +1,3 @@
-#Photo Owl
+#BeepBoop
 ****
-A project created with React and unsplash API. 
+A project created with React and SoundCloud API. 

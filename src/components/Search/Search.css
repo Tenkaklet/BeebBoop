@@ -1,3 +1,12 @@
-#Search {
-    text-align: center;
+
+
+#select-dropdown {
+    display: inline-block;
+    width: 20%;
+    height: 50px;
+}
+
+#search-bar {
+    height: 50px;
+    vertical-align: middle;
 }
